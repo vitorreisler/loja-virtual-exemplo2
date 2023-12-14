@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/loja-virtual-exemplo2/static/css/main.0a5bea92.css",
+    "main.js": "/loja-virtual-exemplo2/static/js/main.19047955.js",
+    "static/js/787.987cd479.chunk.js": "/loja-virtual-exemplo2/static/js/787.987cd479.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/loja-virtual-exemplo2/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/loja-virtual-exemplo2/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/tenis2.jpg": "/loja-virtual-exemplo2/static/media/tenis2.d574616290496d4200f2.jpg",
+    "static/media/camisa1.jpg": "/loja-virtual-exemplo2/static/media/camisa1.06d3fdfbe3c199d47b9d.jpg",
+    "static/media/calca3.jpg": "/loja-virtual-exemplo2/static/media/calca3.8411fc017e9a953d9bda.jpg",
+    "static/media/tenis4.jpg": "/loja-virtual-exemplo2/static/media/tenis4.8c99c2505d316bd67412.jpg",
+    "static/media/calca4.jpg": "/loja-virtual-exemplo2/static/media/calca4.640048234b185fa969dc.jpg",
+    "static/media/tenis3.jpg": "/loja-virtual-exemplo2/static/media/tenis3.418c7ba3031d637f6b52.jpg",
+    "static/media/camisa3.jpg": "/loja-virtual-exemplo2/static/media/camisa3.a984b8fe50911919ea9b.jpg",
+    "static/media/camisa5.jpg": "/loja-virtual-exemplo2/static/media/camisa5.ce3cbed7511e43254d0a.jpg",
+    "static/media/camisa4.jpg": "/loja-virtual-exemplo2/static/media/camisa4.294f294b0d07661e8438.jpg",
+    "static/media/calca2.jpg": "/loja-virtual-exemplo2/static/media/calca2.058fb562eec12f590ae4.jpg",
+    "static/media/calca1.jpg": "/loja-virtual-exemplo2/static/media/calca1.694d4751a132ed777c90.jpg",
+    "static/media/tenis1.jpg": "/loja-virtual-exemplo2/static/media/tenis1.bbaee9aa9ec4742513f7.jpg",
+    "static/media/camisa2.jpg": "/loja-virtual-exemplo2/static/media/camisa2.d65b2e0bec0d75f64e1d.jpg",
+    "index.html": "/loja-virtual-exemplo2/index.html",
+    "main.0a5bea92.css.map": "/loja-virtual-exemplo2/static/css/main.0a5bea92.css.map",
+    "main.19047955.js.map": "/loja-virtual-exemplo2/static/js/main.19047955.js.map",
+    "787.987cd479.chunk.js.map": "/loja-virtual-exemplo2/static/js/787.987cd479.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5bea92.css",
+    "static/js/main.19047955.js"
+  ]
+}
