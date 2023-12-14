@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/loja-virtual-exemplo2/static/css/main.0a5bea92.css",
-    "main.js": "/loja-virtual-exemplo2/static/js/main.19047955.js",
+    "main.css": "/loja-virtual-exemplo2/static/css/main.0db401eb.css",
+    "main.js": "/loja-virtual-exemplo2/static/js/main.6ec1aa8f.js",
     "static/js/787.987cd479.chunk.js": "/loja-virtual-exemplo2/static/js/787.987cd479.chunk.js",
     "static/media/bootstrap-icons.woff?": "/loja-virtual-exemplo2/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
     "static/media/bootstrap-icons.woff2?": "/loja-virtual-exemplo2/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
@@ -19,12 +19,12 @@
     "static/media/tenis1.jpg": "/loja-virtual-exemplo2/static/media/tenis1.bbaee9aa9ec4742513f7.jpg",
     "static/media/camisa2.jpg": "/loja-virtual-exemplo2/static/media/camisa2.d65b2e0bec0d75f64e1d.jpg",
     "index.html": "/loja-virtual-exemplo2/index.html",
-    "main.0a5bea92.css.map": "/loja-virtual-exemplo2/static/css/main.0a5bea92.css.map",
-    "main.19047955.js.map": "/loja-virtual-exemplo2/static/js/main.19047955.js.map",
+    "main.0db401eb.css.map": "/loja-virtual-exemplo2/static/css/main.0db401eb.css.map",
+    "main.6ec1aa8f.js.map": "/loja-virtual-exemplo2/static/js/main.6ec1aa8f.js.map",
     "787.987cd479.chunk.js.map": "/loja-virtual-exemplo2/static/js/787.987cd479.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a5bea92.css",
-    "static/js/main.19047955.js"
+    "static/css/main.0db401eb.css",
+    "static/js/main.6ec1aa8f.js"
   ]
 }
