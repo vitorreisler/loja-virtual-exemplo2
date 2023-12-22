@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/loja-virtual-exemplo2/static/css/main.5b9f7a11.css",
-    "main.js": "/loja-virtual-exemplo2/static/js/main.30754de2.js",
+    "main.css": "/loja-virtual-exemplo2/static/css/main.58505026.css",
+    "main.js": "/loja-virtual-exemplo2/static/js/main.72842dff.js",
     "static/js/787.987cd479.chunk.js": "/loja-virtual-exemplo2/static/js/787.987cd479.chunk.js",
     "static/media/loja-roupa.jpg": "/loja-virtual-exemplo2/static/media/loja-roupa.8833df72e18434d914ba.jpg",
     "static/media/bootstrap-icons.woff?": "/loja-virtual-exemplo2/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
     "static/media/bootstrap-icons.woff2?": "/loja-virtual-exemplo2/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
     "static/media/tenis4.jpg": "/loja-virtual-exemplo2/static/media/tenis4.5c3fae1219e3071b545b.jpg",
-    "static/media/tenis7.png": "/loja-virtual-exemplo2/static/media/tenis7.5c3fae1219e3071b545b.png",
     "static/media/tenis6.jpg": "/loja-virtual-exemplo2/static/media/tenis6.ccf71c48803ef50b4a6e.jpg",
     "static/media/camisa1.jpg": "/loja-virtual-exemplo2/static/media/camisa1.06d3fdfbe3c199d47b9d.jpg",
     "static/media/tenis1.jpg": "/loja-virtual-exemplo2/static/media/tenis1.571862443b50e629a127.jpg",
@@ -25,12 +24,12 @@
     "static/media/calca2t.jpg": "/loja-virtual-exemplo2/static/media/calca2t.8bb0c000a3f9404558a1.jpg",
     "static/media/calca3t.jpg": "/loja-virtual-exemplo2/static/media/calca3t.8340a2172c69ac6ac9e4.jpg",
     "index.html": "/loja-virtual-exemplo2/index.html",
-    "main.5b9f7a11.css.map": "/loja-virtual-exemplo2/static/css/main.5b9f7a11.css.map",
-    "main.30754de2.js.map": "/loja-virtual-exemplo2/static/js/main.30754de2.js.map",
+    "main.58505026.css.map": "/loja-virtual-exemplo2/static/css/main.58505026.css.map",
+    "main.72842dff.js.map": "/loja-virtual-exemplo2/static/js/main.72842dff.js.map",
     "787.987cd479.chunk.js.map": "/loja-virtual-exemplo2/static/js/787.987cd479.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b9f7a11.css",
-    "static/js/main.30754de2.js"
+    "static/css/main.58505026.css",
+    "static/js/main.72842dff.js"
   ]
 }
