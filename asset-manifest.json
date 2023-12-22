@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/loja-virtual-exemplo2/static/css/main.9b866852.css",
-    "main.js": "/loja-virtual-exemplo2/static/js/main.b25ce6e0.js",
+    "main.css": "/loja-virtual-exemplo2/static/css/main.b6b50623.css",
+    "main.js": "/loja-virtual-exemplo2/static/js/main.bd2399da.js",
     "static/js/787.987cd479.chunk.js": "/loja-virtual-exemplo2/static/js/787.987cd479.chunk.js",
     "static/media/loja-roupa.jpg": "/loja-virtual-exemplo2/static/media/loja-roupa.8833df72e18434d914ba.jpg",
     "static/media/bootstrap-icons.woff?": "/loja-virtual-exemplo2/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
@@ -24,12 +24,12 @@
     "static/media/calca2t.jpg": "/loja-virtual-exemplo2/static/media/calca2t.8bb0c000a3f9404558a1.jpg",
     "static/media/calca3t.jpg": "/loja-virtual-exemplo2/static/media/calca3t.8340a2172c69ac6ac9e4.jpg",
     "index.html": "/loja-virtual-exemplo2/index.html",
-    "main.9b866852.css.map": "/loja-virtual-exemplo2/static/css/main.9b866852.css.map",
-    "main.b25ce6e0.js.map": "/loja-virtual-exemplo2/static/js/main.b25ce6e0.js.map",
+    "main.b6b50623.css.map": "/loja-virtual-exemplo2/static/css/main.b6b50623.css.map",
+    "main.bd2399da.js.map": "/loja-virtual-exemplo2/static/js/main.bd2399da.js.map",
     "787.987cd479.chunk.js.map": "/loja-virtual-exemplo2/static/js/787.987cd479.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b866852.css",
-    "static/js/main.b25ce6e0.js"
+    "static/css/main.b6b50623.css",
+    "static/js/main.bd2399da.js"
   ]
 }
